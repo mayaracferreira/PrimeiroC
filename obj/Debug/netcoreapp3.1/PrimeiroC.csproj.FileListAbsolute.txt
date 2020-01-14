@@ -1,0 +1,11 @@
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\bin\Debug\netcoreapp3.1\PrimeiroC.exe
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\bin\Debug\netcoreapp3.1\PrimeiroC.deps.json
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\bin\Debug\netcoreapp3.1\PrimeiroC.runtimeconfig.json
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\bin\Debug\netcoreapp3.1\PrimeiroC.runtimeconfig.dev.json
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\bin\Debug\netcoreapp3.1\PrimeiroC.dll
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\bin\Debug\netcoreapp3.1\PrimeiroC.pdb
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\obj\Debug\netcoreapp3.1\PrimeiroC.csprojAssemblyReference.cache
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\obj\Debug\netcoreapp3.1\PrimeiroC.AssemblyInfoInputs.cache
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\obj\Debug\netcoreapp3.1\PrimeiroC.AssemblyInfo.cs
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\obj\Debug\netcoreapp3.1\PrimeiroC.dll
+C:\Users\MRCR\source\repos\PrimeiroC\PrimeiroC\obj\Debug\netcoreapp3.1\PrimeiroC.pdb
